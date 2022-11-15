@@ -1,0 +1,32 @@
+*{
+    background-color: white;
+}
+
+h1{
+    font-size: 18px;
+}
+
+main{
+    margin: 20px;
+}
+
+p{
+    font-size: 14px;
+}
+
+section{
+    width: 700px;
+    padding: 10px;
+}
+
+.section-one{
+    color: green;
+}
+
+.section-two{
+    color: red;
+}
+
+.section-three{
+    color: blue;
+}
